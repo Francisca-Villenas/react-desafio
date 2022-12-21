@@ -1,0 +1,41 @@
+html {
+    height: 100vh;
+    width: 100vw;
+    padding: 3rem;
+}
+
+h1 {
+    color: black;
+    padding-bottom: 2rem;
+}
+
+body {
+    background-color: #E6F3F1;
+}
+
+.container-card {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    padding: 1rem;
+    background-color: #E7EEEC 
+      
+}
+
+
+
+.card-body {
+    background-color: #DEDFDF;
+    text-align: center;
+}
+
+.footer-1 {
+    background-color: #DEDFDF;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+
+
+
+
